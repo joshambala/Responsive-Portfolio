@@ -1,0 +1,142 @@
+header {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  width: 100%;
+}
+
+h1 {
+  border: none;
+  float: left;
+  margin-top: 0px;
+  margin-left: 100px;
+  text-align: center;
+  width: 35%;
+  background-color: #4aaaa5;
+  font-size: 30px;
+	font-weight: bold;
+	color: white;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+/* .bannerPage {
+	height: 38px;
+	padding: 40px 40px;
+	text-align: center;
+	margin-left: 40px;
+	float: left;
+	background-color: #4aaaa5;
+	color: white;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}*/
+
+nav {
+  border-bottom: 2px solid #cccccc;
+  width: 100%;
+  padding: 30px;
+	font-size: 18px;
+	background-color: white;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #A9A9A9;
+}
+. body background {
+  width:960px;
+}
+
+body {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	width: 100%;
+}
+
+section {
+  clear: both;
+  float: left;
+}
+
+article {
+  float: left;
+  overflow: auto;
+	width: 50%;
+
+	background-color: white;
+	margin-left: 100px;
+}
+
+h2 {
+	margin: 30px 20px 20px 20px;
+  padding-bottom: 30px;
+	border-color: #e0e0e0;
+  font-size: 28px;
+	border-bottom: solid #D3D3D3;
+	color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.image1 {
+  float: left;
+  margin-top: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+	width: 200px;
+	height: 200px;
+}
+
+.image2 {
+  padding-left: 60px;
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+}
+
+.image3 {
+  display: inline-block;
+  width: 66px;
+  height: 66px;
+}
+
+.image4 {
+  display: inline-block;
+  width: 64px;
+  height: 64px;
+}
+
+ p {
+   margin: 20px 20px 20px 20px;
+  }
+
+aside {
+  padding-bottom: 40px;
+  float: left;
+  position: relative;
+  width: 25%;
+  background-color: white;
+  margin-left: 40px;
+}
+
+h3 {
+  padding-bottom: 20px;
+  text-align: center;
+	margin: 20px 20px 20px 20px;
+	font-size: 20px;
+	border-color: #e0e0e0;
+	border-bottom: solid #D3D3D3;
+	color:#4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+
+
+}
+
+footer {
+ border-top: 10px solid #4aaaa5;
+  color: white;
+  clear: both;
+  text-align: center;
+	width: 100%;
+	padding: 10px;
+	position: relative;
+	clear: both;
+	background-color: #ccc;
+}
